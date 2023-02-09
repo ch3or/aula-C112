@@ -1,0 +1,28 @@
+body{
+    background-color: #121212;
+    color: #fff;
+}
+span{
+    font-size: 30px;
+}
+#camera, #result{
+    border: solid 1px #fff;
+    width: 350px;
+    height: 300px;
+}
+#resultemotionName,#resultemotionName2{
+    color: #fff;
+}
+.emotionName{
+    font-size: 40px;
+}
+.emoji{
+    font-size: 48px;
+}
+h3{
+    font-size: 30px;
+}
+label{
+    font-size: 30px;
+    color: #fff;
+}
